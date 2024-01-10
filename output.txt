@@ -1,0 +1,2547 @@
+Kana: くしゃみ
+Kana: くさめ
+Kana: くっさめ
+Kana: クシャミ
+Kanji: 嚏
+Kanji: 嚔
+
+Kana: サドンデス
+Kana: サドン・デス
+
+Kana: サドンデス
+Kana: サドン・デス
+
+Kana: デスエデュケーション
+Kana: デス・エデュケーション
+
+Kana: デスマスク
+Kana: デス・マスク
+
+Kana: デスマッチ
+Kana: デス・マッチ
+
+Kana: デスマッチ
+Kana: デス・マッチ
+
+Kana: デスマッチ
+Kana: デス・マッチ
+
+Kana: ぶちころす
+Kanji: ぶち殺す
+Kanji: ブチ殺す
+Kanji: 打ち殺す
+
+Kana: ぶちころす
+Kanji: ぶち殺す
+Kanji: ブチ殺す
+Kanji: 打ち殺す
+
+Kana: ポア
+
+Kana: おしころす
+Kanji: 押し殺す
+Kanji: 圧し殺す
+Kanji: 押しころす
+Kanji: 圧しころす
+Kanji: 押殺す
+
+Kana: おしころす
+Kanji: 押し殺す
+Kanji: 圧し殺す
+Kanji: 押しころす
+Kanji: 圧しころす
+Kanji: 押殺す
+
+Kana: おしころす
+Kanji: 押し殺す
+Kanji: 圧し殺す
+Kanji: 押しころす
+Kanji: 圧しころす
+Kanji: 押殺す
+
+Kana: あっさつ
+Kanji: 圧殺
+
+Kana: あっし
+Kanji: 圧死
+
+Kana: あっし
+Kanji: 圧死
+
+Kana: いぎょう
+Kanji: 遺業
+
+Kana: いりゅう
+Kanji: 遺留
+
+Kana: いりゅうひん
+Kanji: 遺留品
+
+Kana: いっかいき
+Kanji: 一回忌
+
+Kana: いっかいき
+Kanji: 一回忌
+
+Kana: いっしゅうき
+Kanji: 一周忌
+
+Kana: えいみん
+Kanji: 永眠
+
+Kana: やくびょうがみ
+Kana: えきびょうがみ
+Kanji: 疫病神
+
+Kana: えんじゃく
+Kanji: 円寂
+
+Kana: えんし
+Kanji: 煙死
+
+Kana: けがれ
+Kanji: 汚れ
+Kanji: 穢れ
+
+Kana: おうじょう
+Kanji: 往生
+
+Kana: おうし
+Kanji: 横死
+
+Kana: おうし
+Kanji: 横死
+
+Kana: なぐりころす
+Kanji: 殴り殺す
+Kanji: 殴りころす
+
+Kana: おうさつ
+Kanji: 殴殺
+
+Kana: かし
+Kanji: 仮死
+
+Kana: かろうし
+Kanji: 過労死
+
+Kana: かいき
+Kanji: 回忌
+
+Kana: かいき
+Kanji: 回忌
+
+Kana: かいし
+Kanji: 怪死
+
+Kana: かみころす
+Kanji: 噛み殺す
+Kanji: 噛殺す
+Kanji: かみ殺す
+
+Kana: みとる
+Kanji: 看取る
+
+Kana: ききゅうそんぼう
+Kanji: 危急存亡
+
+Kana: きとく
+Kanji: 危篤
+
+Kana: きにち
+Kana: きじつ
+Kanji: 忌日
+
+Kana: きにち
+Kana: きじつ
+Kanji: 忌日
+
+Kana: きせい
+Kanji: 棄世
+
+Kana: きそくえんえん
+Kanji: 気息奄々
+Kanji: 気息奄奄
+
+Kana: きしかいせい
+Kanji: 起死回生
+
+Kana: ぎし
+Kanji: 擬死
+
+Kana: ぎし
+Kanji: 擬死
+
+Kana: きゅうし
+Kanji: 急死
+
+Kana: きゅうせい
+Kanji: 急逝
+
+Kana: きゅうせい
+Kanji: 急逝
+
+Kana: きょうねん
+Kanji: 享年
+
+Kana: きょういん
+Kana: きょうおん
+Kanji: 凶音
+
+Kana: きょうほう
+Kanji: 凶報
+
+Kana: きょうほう
+Kanji: 凶報
+
+Kana: きょっけい
+Kanji: 極刑
+
+Kana: ぎょくさい
+Kanji: 玉砕
+Kanji: 玉摧
+
+Kana: ぎょくさい
+Kanji: 玉砕
+Kanji: 玉摧
+
+Kana: きゅうしにいっしょう
+Kanji: 九死に一生
+
+Kana: きゅうしいっしょう
+Kanji: 九死一生
+
+Kana: けいし
+Kanji: 刑死
+
+Kana: むかえる
+Kanji: 迎える
+Kanji: 邀える
+
+Kana: けっし
+Kanji: 決死
+
+Kana: いさぎよい
+Kanji: 潔い
+Kanji: いさぎ良い
+Kanji: 潔よい
+Kanji: 潔良い
+
+Kana: かぎり
+Kanji: 限り
+
+Kana: ここう
+Kanji: 虎口
+
+Kana: あと
+Kanji: 後
+
+Kana: のち
+Kanji: 後
+Kanji: 后
+
+Kana: こうじ
+Kanji: 後事
+
+Kana: ちまた
+Kanji: 巷
+Kanji: 岐
+Kanji: 衢
+
+Kana: しめころす
+Kanji: 絞め殺す
+Kanji: 締め殺す
+Kanji: しめ殺す
+Kanji: 絞殺す
+
+Kana: こうしゅけい
+Kanji: 絞首刑
+
+Kana: ごくし
+Kanji: 獄死
+
+Kana: ごくし
+Kanji: 獄死
+
+Kana: さいご
+Kanji: 最期
+
+Kana: いみび
+Kanji: 忌み日
+Kanji: 忌日
+Kanji: 斎日
+
+Kana: さんじ
+Kanji: ３時
+Kanji: 三時
+
+Kana: ざんし
+Kanji: 惨死
+
+Kana: ざんし
+Kanji: 惨死
+
+Kana: ちる
+Kanji: 散る
+
+Kana: さしころす
+Kanji: 刺し殺す
+
+Kana: しさつ
+Kanji: 刺殺
+
+Kana: しくはっく
+Kanji: 四苦八苦
+
+Kana: し
+Kanji: 死
+
+Kana: し
+Kanji: 死
+
+Kana: しいん
+Kanji: 死因
+
+Kana: しかつ
+Kanji: 死活
+
+Kana: しかつ
+Kanji: 死活
+
+Kana: しき
+Kanji: 死期
+
+Kana: しきょ
+Kanji: 死去
+
+Kana: しけい
+Kanji: 死刑
+
+Kana: しけいしゅう
+Kanji: 死刑囚
+
+Kana: しけいしゅう
+Kanji: 死刑囚
+
+Kana: しご
+Kanji: 死後
+
+Kana: しざい
+Kanji: 死罪
+
+Kana: しにがみ
+Kanji: 死神
+Kanji: 死に神
+
+Kana: しにがみ
+Kanji: 死神
+Kanji: 死に神
+
+Kana: しとう
+Kanji: 死闘
+
+Kana: しとう
+Kanji: 死闘
+
+Kana: しべつ
+Kanji: 死別
+
+Kana: しぼう
+Kanji: 死亡
+Kanji: ﾀﾋ亡
+
+Kana: しぼうしゃ
+Kanji: 死亡者
+
+Kana: しぼうしんだんしょ
+Kanji: 死亡診断書
+
+Kana: しぼうすう
+Kanji: 死亡数
+
+Kana: しぼうりつ
+Kanji: 死亡率
+
+Kana: しちかいき
+Kanji: 七回忌
+
+Kana: しちねんき
+Kanji: 七年忌
+
+Kana: しゃさつ
+Kanji: 射殺
+
+Kana: わかじに
+Kanji: 若死に
+
+Kana: わかじに
+Kanji: 若死に
+
+Kana: しゅうき
+Kanji: 周忌
+
+Kana: しゅうき
+Kanji: 周忌
+
+Kana: しゅうえん
+Kanji: 終焉
+Kanji: 終えん
+
+Kana: じゅうさつ
+Kanji: 銃殺
+
+Kana: しゅっけつし
+Kanji: 出血死
+
+Kana: しょうてん
+Kanji: 昇天
+
+Kana: やきころす
+Kanji: 焼き殺す
+
+Kana: やけしぬ
+Kanji: 焼け死ぬ
+
+Kana: のりつぶす
+Kanji: 乗りつぶす
+Kanji: 乗り潰す
+
+Kana: くいころす
+Kanji: 食い殺す
+
+Kana: ひとじに
+Kanji: 人死に
+
+Kana: じんしんじこ
+Kanji: 人身事故
+
+Kana: たれる
+Kanji: 垂れる
+
+Kana: すいし
+Kanji: 水死
+
+Kana: せいさつよだつ
+Kanji: 生殺与奪
+
+Kana: せいし
+Kana: しょうじ
+Kana: しょうし
+Kanji: 生死
+
+Kana: せいし
+Kana: しょうじ
+Kana: しょうし
+Kanji: 生死
+
+Kana: せいし
+Kana: しょうじ
+Kana: しょうし
+Kanji: 生死
+
+Kana: せいし
+Kana: しょうじ
+Kana: しょうし
+Kanji: 生死
+
+Kana: せいしにかかわるもんだい
+Kanji: 生死に関わる問題
+Kanji: 生死にかかわる問題
+
+Kana: せいきょ
+Kanji: 逝去
+
+Kana: きりじに
+Kanji: 切り死に
+Kanji: 斬り死に
+
+Kana: せっぷく
+Kanji: 切腹
+
+Kana: ぜつめい
+Kanji: 絶命
+
+Kana: せんど
+Kanji: 先途
+
+Kana: せんし
+Kanji: 戦死
+
+Kana: せんぼつ
+Kanji: 戦没
+Kanji: 戦歿
+
+Kana: そくし
+Kanji: 即死
+
+Kana: たかい
+Kanji: 他界
+
+Kana: だんまつま
+Kanji: 断末魔
+Kanji: 断末摩
+
+Kana: だんまつま
+Kanji: 断末魔
+Kanji: 断末摩
+
+Kana: だんまつま
+Kanji: 断末魔
+Kanji: 断末摩
+
+Kana: ちっそくし
+Kanji: 窒息死
+
+Kana: ちっそくし
+Kanji: 窒息死
+
+Kana: ちゅういん
+Kanji: 中陰
+
+Kana: むしのいき
+Kanji: 虫の息
+
+Kana: とむらいがっせん
+Kanji: 弔い合戦
+Kanji: 弔合戦
+
+Kana: ちょうしょう
+Kanji: 弔鐘
+
+Kana: ついし
+Kanji: 墜死
+
+Kana: ついぜん
+Kanji: 追善
+
+Kana: できし
+Kanji: 溺死
+
+Kana: てん
+Kanji: 天
+
+Kana: たおれ
+Kanji: 倒れ
+
+Kana: こごえじに
+Kanji: 凍え死に
+
+Kana: こごえじに
+Kanji: 凍え死に
+
+Kana: とうし
+Kanji: 凍死
+
+Kana: とうし
+Kanji: 凍死
+
+Kana: とうししゃ
+Kanji: 凍死者
+
+Kana: みちづれ
+Kana: みちずれ
+Kanji: 道連れ
+Kanji: 道ずれ
+Kanji: 道づれ
+
+Kana: つきころす
+Kanji: 突き殺す
+
+Kana: つきとめる
+Kanji: 突き止める
+Kanji: 突きとめる
+Kanji: 突止める
+Kanji: 突き留める
+
+Kana: とつぜんし
+Kanji: 突然死
+
+Kana: とつぜんし
+Kanji: 突然死
+
+Kana: とんし
+Kanji: 頓死
+
+Kana: とんし
+Kanji: 頓死
+
+Kana: にゅうじゃく
+Kanji: 入寂
+
+Kana: にゅうじょう
+Kanji: 入定
+
+Kana: にゅうめつ
+Kanji: 入滅
+
+Kana: ねんかい
+Kanji: 年回
+
+Kana: ねんき
+Kanji: 年忌
+
+Kana: のうし
+Kanji: 脳死
+
+Kana: ばくし
+Kanji: 爆死
+
+Kana: ばくし
+Kanji: 爆死
+
+Kana: しばりくび
+Kanji: 縛り首
+
+Kana: はっく
+Kanji: 八苦
+
+Kana: はんしょう
+Kanji: 半生
+
+Kana: ひほう
+Kanji: 悲報
+
+Kana: ひほう
+Kanji: 悲報
+
+Kana: ひっさつ
+Kanji: 必殺
+
+Kana: びょうし
+Kanji: 病死
+
+Kana: びょうし
+Kanji: 病死
+
+Kana: ひんし
+Kanji: 瀕死
+Kanji: ひん死
+
+Kana: ふこう
+Kanji: 不幸
+
+Kana: ふし
+Kanji: 不死
+
+Kana: ふくじょうし
+Kanji: 腹上死
+
+Kana: ふち
+Kanji: 淵
+Kanji: 渕
+Kanji: 潭
+Kanji: 渊
+
+Kana: ぶつめつ
+Kanji: 仏滅
+
+Kana: へんし
+Kanji: 変死
+
+Kana: へんし
+Kanji: 変死
+
+Kana: へんし
+Kanji: 変死
+
+Kana: へんししゃ
+Kanji: 変死者
+
+Kana: ぼひょう
+Kana: はかじるし
+Kanji: 墓標
+Kanji: 墓表
+
+Kana: ほうぎょ
+Kanji: 崩御
+
+Kana: なきあと
+Kanji: 亡き後
+
+Kana: ぼくさつ
+Kanji: 撲殺
+
+Kana: ぼつ
+Kanji: 没
+Kanji: 歿
+
+Kana: ぼつねん
+Kanji: 没年
+Kanji: 歿年
+
+Kana: ぼつねん
+Kanji: 没年
+Kanji: 歿年
+
+Kana: まつご
+Kanji: 末期
+
+Kana: ばんし
+Kanji: 万死
+
+Kana: ねむり
+Kana: ねぶり
+Kanji: 眠り
+Kanji: 睡り
+Kanji: 睡
+
+Kana: いのちがけ
+Kanji: 命がけ
+Kanji: 命懸け
+Kanji: 命掛け
+
+Kana: いのちびろい
+Kanji: 命拾い
+
+Kana: めいにち
+Kanji: 命日
+
+Kana: めいにち
+Kanji: 命日
+
+Kana: もんし
+Kanji: 悶死
+
+Kana: よほう
+Kanji: 余芳
+
+Kana: のぞむ
+Kanji: 臨む
+
+Kana: りんじゅう
+Kanji: 臨終
+
+Kana: りんじゅう
+Kanji: 臨終
+
+Kana: りんね
+Kanji: 輪廻
+Kanji: 輪回
+
+Kana: ろうさい
+Kanji: 労災
+
+Kana: ろうどうさいがい
+Kanji: 労働災害
+
+Kana: かいろうどうけつ
+Kana: カイロウドウケツ
+Kanji: 偕老同穴
+
+Kana: ようし
+Kanji: 夭死
+
+Kana: ようせい
+Kanji: 夭逝
+
+Kana: ようせつ
+Kanji: 夭折
+
+Kana: ねはん
+Kanji: 涅槃
+
+Kana: ねはん
+Kanji: 涅槃
+
+Kana: らんし
+Kanji: 爛死
+
+Kana: くびりころす
+Kanji: くびり殺す
+Kanji: 縊り殺す
+
+Kana: こうきょ
+Kanji: 薨去
+
+Kana: ふおん
+Kana: ふいん
+Kanji: 訃音
+
+Kana: ふほう
+Kanji: 訃報
+
+Kana: れきし
+Kanji: 轢死
+
+Kana: どくろ
+Kana: しゃれこうべ
+Kana: されこうべ
+Kana: しゃりこうべ
+Kana: ドクロ
+Kana: シャレコウベ
+Kana: サレコウベ
+Kanji: 髑髏
+Kanji: 曝首
+
+Kana: どくろ
+Kana: しゃれこうべ
+Kana: されこうべ
+Kana: しゃりこうべ
+Kana: ドクロ
+Kana: シャレコウベ
+Kana: サレコウベ
+Kanji: 髑髏
+Kanji: 曝首
+
+Kana: みなぬか
+Kana: みなのか
+Kana: さんしちにち
+Kanji: 三七日
+
+Kana: しゅっきょ
+Kana: そっきょ
+Kanji: 卒去
+
+Kana: こごえしぬ
+Kana: こごえじぬ
+Kanji: 凍え死ぬ
+
+Kana: まぬがれる
+Kana: まぬかれる
+Kanji: 免れる
+
+Kana: がし
+Kana: がしん
+Kanji: 餓死
+
+Kana: がし
+Kana: がしん
+Kanji: 餓死
+
+Kana: うちころす
+Kanji: 撃ち殺す
+Kanji: 撃殺す
+Kanji: 射ち殺す
+Kanji: うち殺す
+
+Kana: うちじに
+Kanji: 討ち死に
+Kanji: 討死
+Kanji: 討死に
+
+Kana: うちじに
+Kanji: 討ち死に
+Kanji: 討死
+Kanji: 討死に
+
+Kana: おくれる
+Kanji: 遅れる
+Kanji: 後れる
+
+Kana: おわり
+Kanji: 終わり
+Kanji: 終り
+Kanji: 終
+
+Kana: けりころす
+Kanji: 蹴り殺す
+Kanji: けり殺す
+
+Kana: しちしちにち
+Kana: なななぬか
+Kana: なななのか
+Kanji: 七七日
+Kanji: 七々日
+
+Kana: のこす
+Kanji: 残す
+
+Kana: はやめる
+Kanji: 早める
+Kanji: 速める
+
+Kana: ひっし
+Kanji: 必死
+
+Kana: ぶっころす
+Kanji: ぶっ殺す
+Kanji: 打っ殺す
+
+Kana: ぼつご
+Kanji: 没後
+Kanji: 歿後
+
+Kana: あのよ
+Kanji: あの世
+Kanji: 彼の世
+
+Kana: かくれ
+Kanji: 隠れ
+
+Kana: ぶっこ
+Kanji: 物故
+
+Kana: さんげ
+Kanji: 散華
+Kanji: 散花
+
+Kana: さんげ
+Kanji: 散華
+Kanji: 散花
+
+Kana: ぜっそく
+Kanji: 絶息
+
+Kana: ちょうぶく
+Kana: じょうぶく
+Kanji: 調伏
+
+Kana: ちょうせい
+Kanji: 長逝
+
+Kana: ひごうのし
+Kanji: 非業の死
+
+Kana: ひごうのし
+Kanji: 非業の死
+
+Kana: しーん
+Kana: しいん
+Kana: シーン
+
+Kana: しんと
+Kana: シンと
+
+Kana: じゃくめつ
+Kanji: 寂滅
+
+Kana: じんぼつ
+Kanji: 陣没
+Kanji: 陣歿
+
+Kana: かまゆで
+Kana: かまうで
+Kanji: 釜茹で
+
+Kana: こぐち
+Kanji: 小口
+
+Kana: くるいじに
+Kanji: 狂い死に
+Kanji: 狂死
+
+Kana: めいたんせきにせまる
+Kanji: 命旦夕に迫る
+
+Kana: らくめい
+Kanji: 落命
+
+Kana: しょうし
+Kanji: 焼死
+
+Kana: そんぼう
+Kanji: 存亡
+
+Kana: しそう
+Kanji: 死相
+
+Kana: しそう
+Kanji: 死相
+
+Kana: にいぼん
+Kana: あらぼん
+Kana: しんぼん
+Kanji: 新盆
+
+Kana: しょなのか
+Kana: しょなぬか
+Kanji: 初七日
+
+Kana: とうしん
+Kanji: 投身
+
+Kana: とうしん
+Kanji: 投身
+
+Kana: とうしん
+Kanji: 投身
+
+Kana: つちいろ
+Kanji: 土色
+
+Kana: たいや
+Kanji: 逮夜
+
+Kana: じせい
+Kanji: 辞世
+
+Kana: じせい
+Kanji: 辞世
+
+Kana: ししょう
+Kanji: 死傷
+
+Kana: しずまりかえる
+Kanji: 静まり返る
+Kanji: 静まりかえる
+
+Kana: しょうめつ
+Kanji: 生滅
+
+Kana: そうせい
+Kanji: 早世
+Kanji: 早逝
+
+Kana: こうねん
+Kana: ぎょうねん
+Kanji: 行年
+
+Kana: むじょうじんそく
+Kanji: 無常迅速
+
+Kana: むだじに
+Kanji: 無駄死に
+Kanji: 徒死に
+Kanji: ムダ死に
+
+Kana: むだじに
+Kanji: 無駄死に
+Kanji: 徒死に
+Kanji: ムダ死に
+
+Kana: いまわ
+Kanji: 今際
+Kanji: 今わ
+
+Kana: じゅうけい
+Kanji: 銃刑
+
+Kana: ひめい
+Kanji: 非命
+
+Kana: ひごう
+Kanji: 非業
+
+Kana: ぞんぴ
+Kana: そんぴ
+Kanji: 存否
+
+Kana: つちけいろ
+Kanji: 土気色
+
+Kana: とうせん
+Kanji: 登仙
+
+Kana: とりころす
+Kanji: 取り殺す
+Kanji: とり殺す
+Kanji: 取殺す
+
+Kana: とりとめる
+Kanji: 取り留める
+Kanji: 取留める
+Kanji: 取りとめる
+
+Kana: のたれじに
+Kanji: 野垂れ死に
+Kanji: のたれ死に
+
+Kana: おうじょうぎわ
+Kanji: 往生際
+
+Kana: ひあぶり
+Kanji: 火あぶり
+Kanji: 火炙り
+Kanji: 火焙り
+
+Kana: おいばら
+Kanji: 追い腹
+Kanji: 追腹
+
+Kana: きゅうし
+Kanji: 九死
+
+Kana: かっさつ
+Kanji: 活殺
+
+Kana: かっさつじざい
+Kanji: 活殺自在
+
+Kana: かこちょう
+Kanji: 過去帳
+
+Kana: そうぞくぜい
+Kanji: 相続税
+
+Kana: ごくらくおうじょう
+Kanji: 極楽往生
+
+Kana: こうしゅ
+Kanji: 絞首
+
+Kana: せんげ
+Kanji: 遷化
+
+Kana: しじゅうくにち
+Kanji: 四十九日
+
+Kana: しぼうとどけ
+Kanji: 死亡届
+Kanji: 死亡届け
+
+Kana: しぼうとどけ
+Kanji: 死亡届
+Kanji: 死亡届け
+
+Kana: しせい
+Kana: ししょう
+Kanji: 死生
+
+Kana: しせいかん
+Kanji: 死生観
+
+Kana: しにめ
+Kanji: 死に目
+
+Kana: しち
+Kanji: 死地
+
+Kana: しぼつ
+Kanji: 死没
+Kanji: 死歿
+
+Kana: しめい
+Kanji: 死命
+
+Kana: しにばな
+Kanji: 死に花
+
+Kana: しにものぐるい
+Kanji: 死に物狂い
+Kanji: 死にもの狂い
+Kanji: 死にものぐるい
+
+Kana: ししょ
+Kanji: 死所
+Kanji: 死処
+
+Kana: しにはじ
+Kanji: 死に恥
+
+Kana: しにはじ
+Kanji: 死に恥
+
+Kana: しにばしょ
+Kanji: 死に場所
+
+Kana: しはん
+Kanji: 死斑
+Kanji: 屍斑
+
+Kana: しにぞこない
+Kana: しにそこない
+Kanji: 死に損ない
+Kanji: 死に損い
+
+Kana: しにざま
+Kanji: 死に様
+Kanji: 死にざま
+
+Kana: しにぎわ
+Kanji: 死に際
+Kanji: 死にぎわ
+Kanji: 死際
+
+Kana: しにぎわ
+Kanji: 死に際
+Kanji: 死にぎわ
+Kanji: 死際
+
+Kana: しせん
+Kanji: 死線
+
+Kana: しせん
+Kanji: 死線
+
+Kana: だいおうじょう
+Kanji: 大往生
+
+Kana: ざんしたい
+Kanji: 惨死体
+
+Kana: しょうつき
+Kanji: 祥月
+
+Kana: しょうつきめいにち
+Kanji: 祥月命日
+
+Kana: きし
+Kanji: 起死
+
+Kana: はつぼん
+Kanji: 初盆
+
+Kana: せんびょうし
+Kanji: 戦病死
+
+Kana: さんかいき
+Kanji: 三回忌
+
+Kana: けんあん
+Kanji: 検案
+
+Kana: くりあげとうせん
+Kanji: 繰り上げ当選
+Kanji: 繰上げ当選
+
+Kana: いきしに
+Kanji: 生き死に
+Kanji: 生死
+
+Kana: いきしに
+Kanji: 生き死に
+Kanji: 生死
+
+Kana: せいぼつねん
+Kanji: 生没年
+Kanji: 生歿年
+
+Kana: せいめいせん
+Kanji: 生命線
+
+Kana: ろうしょうふてい
+Kana: ろうしょうふじょう
+Kanji: 老少不定
+
+Kana: はやじに
+Kanji: 早死に
+
+Kana: はやじに
+Kanji: 早死に
+
+Kana: もりころす
+Kanji: 盛り殺す
+
+Kana: しにわかれる
+Kanji: 死に別れる
+
+Kana: しにいそぐ
+Kanji: 死に急ぐ
+
+Kana: しにそこなう
+Kanji: 死に損なう
+Kanji: 死にそこなう
+
+Kana: そいとげる
+Kanji: 添い遂げる
+Kanji: 添遂げる
+Kanji: 添いとげる
+
+Kana: たたきころす
+Kanji: 叩き殺す
+
+Kana: ししてのちやむ
+Kanji: 死して後已む
+Kanji: 死してのちやむ
+Kanji: 死してのち已む
+
+Kana: きせきにいる
+Kanji: 鬼籍に入る
+
+Kana: きもをひやす
+Kanji: 肝を冷やす
+Kanji: きもを冷やす
+
+Kana: きゅうしにいっしょうをえる
+Kanji: 九死に一生を得る
+
+Kana: しにかける
+Kanji: 死に掛ける
+Kanji: 死にかける
+
+Kana: しぬまでたたかう
+Kanji: 死ぬまで戦う
+Kanji: 死ぬ迄戦う
+
+Kana: しょうしんじさつ
+Kanji: 焼身自殺
+
+Kana: せいしのさかい
+Kanji: 生死の境
+
+Kana: ぞくめつ
+Kanji: 族滅
+
+Kana: ちっし
+Kanji: 窒死
+
+Kana: ちゅうどくし
+Kanji: 中毒死
+
+Kana: デス
+
+Kana: デス
+
+Kana: しのしょうにん
+Kanji: 死の商人
+
+Kana: しかつもんだい
+Kanji: 死活問題
+
+Kana: しかつもんだい
+Kanji: 死活問題
+
+Kana: そんげんし
+Kanji: 尊厳死
+
+Kana: そんげんし
+Kanji: 尊厳死
+
+Kana: ぎょうむじょうかしつちし
+Kanji: 業務上過失致死
+
+Kana: しけいはんけつ
+Kanji: 死刑判決
+
+Kana: しぼうきゅうふきん
+Kanji: 死亡給付金
+
+Kana: しぼうしょうめいしょ
+Kanji: 死亡証明書
+
+Kana: じこし
+Kanji: 事故死
+
+Kana: のうしはんてい
+Kanji: 脳死判定
+
+Kana: のうしはんてい
+Kanji: 脳死判定
+
+Kana: のうしはんてい
+Kanji: 脳死判定
+
+Kana: ようじとつぜんししょうこうぐん
+Kanji: 幼児突然死症候群
+
+Kana: りょうち
+Kanji: 凌遅
+
+Kana: じばくれい
+Kanji: 地縛霊
+Kanji: 自縛霊
+Kanji: 自爆霊
+
+Kana: しぼうほしょう
+Kanji: 死亡保障
+
+Kana: こうけい
+Kanji: 絞刑
+
+Kana: たたみのうえでしぬ
+Kanji: 畳の上で死ぬ
+
+Kana: せいせいるてん
+Kana: しょうじょうるてん
+Kanji: 生々流転
+Kanji: 生生流転
+
+Kana: しょうじるてん
+Kanji: 生死流転
+
+Kana: しょうじりんね
+Kanji: 生死輪廻
+
+Kana: しょうろうびょうし
+Kanji: 生老病死
+
+Kana: ばんしいっしょう
+Kanji: 万死一生
+
+Kana: ばんしいっしょう
+Kanji: 万死一生
+
+Kana: るてんしょうじ
+Kanji: 流転生死
+
+Kana: るてんりんね
+Kanji: 流転輪廻
+Kanji: 流転輪回
+
+Kana: りんねてんしょう
+Kana: りんねてんせい
+Kanji: 輪廻転生
+
+Kana: あとおいしんじゅう
+Kana: あとおいしんぢゅう
+Kanji: 後追い心中
+Kanji: 跡追い心中
+
+Kana: あとおいしんじゅう
+Kana: あとおいしんぢゅう
+Kanji: 後追い心中
+Kanji: 跡追い心中
+
+Kana: ぎょくさいしゅぎ
+Kanji: 玉砕主義
+
+Kana: こっかそんぼう
+Kanji: 国家存亡
+
+Kana: せいしいちにょ
+Kanji: 生死一如
+
+Kana: てんしょうりんね
+Kanji: 転生輪廻
+
+Kana: まつごようし
+Kanji: 末期養子
+
+Kana: まつごようし
+Kanji: 末期養子
+
+Kana: おんき
+Kana: えんき
+Kanji: 遠忌
+
+Kana: パケし
+Kanji: パケ死
+
+Kana: おぼれじに
+Kanji: 溺れ死に
+
+Kana: しぼうじこく
+Kanji: 死亡時刻
+
+Kana: たっちゅう
+Kanji: 塔頭
+Kanji: 塔中
+
+Kana: しでのたび
+Kanji: 死出の旅
+
+Kana: しにいたる
+Kanji: 死に至る
+
+Kana: しにいたる
+Kanji: 死に至る
+
+Kana: しにいたるやまい
+Kanji: 死に至る病
+Kanji: 死にいたる病
+
+Kana: ししょうふち
+Kanji: 死生不知
+
+Kana: じっしいっしょう
+Kanji: 十死一生
+
+Kana: じっしいっしょう
+Kanji: 十死一生
+
+Kana: ちょうじ
+Kanji: 弔事
+
+Kana: きてん
+Kanji: 帰天
+
+Kana: しょうてん
+Kanji: 召天
+
+Kana: しぼうこうこく
+Kanji: 死亡広告
+
+Kana: しにそう
+Kanji: 死にそう
+
+Kana: りんし
+Kanji: 臨死
+
+Kana: りんし
+Kanji: 臨死
+
+Kana: りんしたいけん
+Kanji: 臨死体験
+
+Kana: けんかだい
+Kanji: 献花台
+
+Kana: ショックし
+Kanji: ショック死
+
+Kana: そくしぼう
+Kanji: 即死亡
+
+Kana: しぼうれい
+Kanji: 死亡例
+
+Kana: ふみころす
+Kanji: 踏み殺す
+Kanji: 踏殺す
+
+Kana: えきさく
+Kanji: 易簀
+
+Kana: かくりん
+Kanji: 獲麟
+
+Kana: しけいはいし
+Kanji: 死刑廃止
+
+Kana: しう
+Kanji: 四有
+
+Kana: しう
+Kanji: 死有
+
+Kana: ちゅうう
+Kanji: 中有
+
+Kana: いまわのきわ
+Kanji: 今際の際
+Kanji: 今わの際
+
+Kana: りんじゅうのとこ
+Kanji: 臨終の床
+
+Kana: たいじしぼう
+Kanji: 胎児死亡
+
+Kana: ちゃくしょうぜんしぼう
+Kanji: 着床前死亡
+
+Kana: しきゅうないたいじしぼう
+Kanji: 子宮内胎児死亡
+
+Kana: たいじせっぱくかし
+Kanji: 胎児切迫仮死
+
+Kana: こうぜん
+Kanji: 溘然
+
+Kana: まじなう
+Kanji: 呪う
+
+Kana: あとをおう
+Kanji: 後を追う
+Kanji: 跡を追う
+Kanji: あとを追う
+
+Kana: しで
+Kanji: 死出
+
+Kana: ぶっか
+Kanji: 物化
+
+Kana: ねつてきし
+Kanji: 熱的死
+
+Kana: タナトス
+
+Kana: タナトス
+
+Kana: しんだふり
+Kana: しんだフリ
+Kanji: 死んだふり
+Kanji: 死んだフリ
+Kanji: 死んだ振り
+
+Kana: きゆう
+Kanji: 帰幽
+
+Kana: しきねん
+Kanji: 式年
+
+Kana: しきねんさい
+Kanji: 式年祭
+
+Kana: ふ
+Kanji: 訃
+
+Kana: たいへき
+Kanji: 大辟
+
+Kana: ごけい
+Kanji: 五刑
+
+Kana: ごけい
+Kanji: 五刑
+
+Kana: ござい
+Kanji: 五罪
+
+Kana: ござい
+Kanji: 五罪
+
+Kana: けいする
+Kanji: 刑する
+
+Kana: かんでんし
+Kanji: 感電死
+
+Kana: そつ
+Kanji: 卒
+
+Kana: しょうがいちし
+Kanji: 傷害致死
+
+Kana: じんむてんのうさい
+Kanji: 神武天皇祭
+
+Kana: しく
+Kanji: 四苦
+
+Kana: なぶりごろし
+Kanji: なぶり殺し
+Kanji: 嬲り殺し
+
+Kana: なぶりごろし
+Kanji: なぶり殺し
+Kanji: 嬲り殺し
+
+Kana: しけいせんこく
+Kanji: 死刑宣告
+
+Kana: いのちにかかわる
+Kanji: 命にかかわる
+Kanji: 命に係わる
+Kanji: 命に関わる
+
+Kana: ひんしじょうたい
+Kanji: 瀕死状態
+
+Kana: けいす
+Kanji: 刑す
+
+Kana: こう
+Kanji: 薨
+
+Kana: き
+Kanji: 忌
+
+Kana: さつじんこうせん
+Kanji: 殺人光線
+
+Kana: せいあるものはかならずしあり
+Kanji: 生ある者は必ず死あり
+Kanji: 生有る者は必ず死有り
+
+Kana: せいあるものはかならずしあり
+Kanji: 生ある者は必ず死あり
+Kanji: 生有る者は必ず死有り
+
+Kana: しく
+Kanji: 死苦
+
+Kana: しく
+Kanji: 死苦
+
+Kana: しく
+Kanji: 死苦
+
+Kana: しんぼとけ
+Kana: あらぼとけ
+Kana: にいぼとけ
+Kanji: 新仏
+
+Kana: あらしょうりょう
+Kana: にいじょうりょう
+Kanji: 新精霊
+
+Kana: だんごく
+Kanji: 断獄
+
+Kana: くびる
+Kanji: 縊る
+
+Kana: たまごてんぐたけ
+Kana: タマゴテングタケ
+Kanji: 卵天狗茸
+
+Kana: たまごてんぐたけ
+Kana: タマゴテングタケ
+Kanji: 卵天狗茸
+
+Kana: プログラムさいぼうし
+Kanji: プログラム細胞死
+
+Kana: ぼつぜん
+Kanji: 没前
+Kanji: 歿前
+
+Kana: おむかえ
+Kanji: お迎え
+Kanji: 御迎え
+
+Kana: かみのし
+Kanji: 神の死
+
+Kana: えいせい
+Kanji: 永逝
+
+Kana: ぼつち
+Kanji: 没地
+Kanji: 歿地
+
+Kana: さいがいわりましとくやく
+Kanji: 災害割増特約
+
+Kana: さいがいわりましとくやく
+Kanji: 災害割増特約
+
+Kana: そくしんぶつ
+Kanji: 即身仏
+
+Kana: じじゃく
+Kanji: 示寂
+
+Kana: きとう
+Kanji: 飢凍
+
+Kana: うえこごえる
+Kanji: 飢え凍える
+
+Kana: しょうめつめつい
+Kanji: 生滅滅已
+
+Kana: えいえんのねむり
+Kanji: 永遠の眠り
+
+Kana: かぐつちのかみ
+Kanji: 迦具土神
+
+Kana: かぐつち
+Kanji: 軻遇突智
+
+Kana: ほむすびのかみ
+Kanji: 火結神
+Kanji: 火産霊神
+
+Kana: ひのやぎはやおのかみ
+Kanji: 火之夜芸速男神
+
+Kana: しきき
+Kanji: 子規忌
+
+Kana: たんせきにせまる
+Kanji: 旦夕に迫る
+
+Kana: よなのか
+Kanji: 四七日
+
+Kana: ごぶつ
+Kanji: 後仏
+
+Kana: しに
+Kanji: 死に
+
+Kana: しんぞうし
+Kanji: 心臓死
+
+Kana: しのとこ
+Kanji: 死の床
+
+Kana: しぼうほけん
+Kanji: 死亡保険
+
+Kana: ごしちにち
+Kanji: 五七日
+
+Kana: ごしち
+Kanji: 五七
+
+Kana: わらいじに
+Kanji: 笑い死に
+
+Kana: しょうりょうえ
+Kanji: 精霊会
+Kanji: 聖霊会
+
+Kana: ねはんえ
+Kanji: 涅槃会
+
+Kana: ねはんにし
+Kana: ねはんにしかぜ
+Kanji: 涅槃西風
+
+Kana: ゆきのはて
+Kanji: 雪の果て
+
+Kana: ねはんゆき
+Kanji: 涅槃雪
+
+Kana: てんらくし
+Kanji: 転落死
+
+Kana: てんらくし
+Kanji: 転落死
+
+Kana: しぼうち
+Kanji: 死亡地
+
+Kana: せいびょうろうし
+Kanji: 生病老死
+
+Kana: ぎょうむじょうかしつちししょう
+Kanji: 業務上過失致死傷
+
+Kana: たいりょうし
+Kanji: 大量死
+
+Kana: ししゃをだす
+Kanji: 死者を出す
+
+Kana: ぶつねはん
+Kanji: 仏涅槃
+
+Kana: ぶつねはん
+Kanji: 仏涅槃
+
+Kana: ぶつねはんき
+Kanji: 仏涅槃忌
+
+Kana: ちゅう
+Kanji: 誅
+
+Kana: おかくれ
+Kanji: お隠れ
+Kanji: 御隠れ
+Kanji: お崩れ
+
+Kana: ちゅうする
+Kanji: 誅する
+
+Kana: ちゅうする
+Kanji: 誅する
+
+Kana: しぜんぜんめい
+Kanji: 死前喘鳴
+
+Kana: じゆうかしか
+Kanji: 自由か死か
+
+Kana: たいほかんきんちししょうざい
+Kanji: 逮捕監禁致死傷罪
+
+Kana: やりこみ
+Kanji: やり込み
+
+Kana: むえんづか
+Kanji: 無縁塚
+
+Kana: むえんばか
+Kanji: 無縁墓
+
+Kana: りんじゅうしょうねん
+Kanji: 臨終正念
+
+Kana: しま
+Kanji: 死魔
+
+Kana: アートマン
+
+Kana: とうしんじさつ
+Kanji: 投身自殺
+
+Kana: とうしんじさつ
+Kanji: 投身自殺
+
+Kana: さいぼうし
+Kanji: 細胞死
+
+Kana: ゆうかいき
+Kanji: 幽回忌
+
+Kana: ひしぬ
+Kanji: 干死ぬ
+Kanji: 乾死ぬ
+
+Kana: いじょうし
+Kanji: 異状死
+
+Kana: がいいんし
+Kanji: 外因死
+
+Kana: がいいんし
+Kanji: 外因死
+
+Kana: がいいんし
+Kanji: 外因死
+
+Kana: がいいんし
+Kanji: 外因死
+
+Kana: かんきし
+Kanji: 間期死
+
+Kana: かんし
+Kanji: 敢死
+
+Kana: かんし
+Kanji: 敢死
+
+Kana: けいし
+Kanji: 経死
+
+Kana: こどくし
+Kanji: 孤独死
+
+Kana: さいがいかんれんし
+Kanji: 災害関連死
+
+Kana: さいがいかんれんし
+Kanji: 災害関連死
+
+Kana: しんさいかんれんし
+Kanji: 震災関連死
+
+Kana: うえじに
+Kana: かつえじに
+Kanji: 飢え死に
+Kanji: 餓え死に
+Kanji: 飢死に
+Kanji: 飢え死
+Kanji: 飢死
+Kanji: 饑死
+
+Kana: うえじに
+Kana: かつえじに
+Kanji: 飢え死に
+Kanji: 餓え死に
+Kanji: 飢死に
+Kanji: 飢え死
+Kanji: 飢死
+Kanji: 饑死
+
+Kana: つい
+Kanji: 終
+Kanji: 竟
+Kanji: 遂
+
+Kana: しのくみ
+Kanji: 死の組
+
+Kana: こりつし
+Kanji: 孤立死
+
+Kana: うしざき
+Kanji: 牛裂き
+Kanji: 牛割き
+
+Kana: えんせい
+Kanji: 遠逝
+
+Kana: えんこう
+Kana: えんぎょう
+Kana: おんぎょう
+Kanji: 遠行
+
+Kana: いしょく
+Kanji: 遺嘱
+
+Kana: ひごうのさいご
+Kanji: 非業の最期
+
+Kana: ひごうのさいご
+Kanji: 非業の最期
+
+Kana: しのぶとう
+Kanji: 死の舞踏
+
+Kana: しょうがいちしざい
+Kanji: 傷害致死罪
+
+Kana: ふしんし
+Kanji: 不審死
+
+Kana: ふしんし
+Kanji: 不審死
+
+Kana: シュテルベン
+Kana: ステルベン
+
+Kana: はやすぎる
+Kanji: 早過ぎる
+Kanji: 早すぎる
+
+Kana: しゅうかつ
+Kanji: 終活
+
+Kana: さんじゅうさんかいき
+Kanji: 三十三回忌
+
+Kana: とむらいあげ
+Kana: といあげ
+Kana: とぶらいあげ
+Kanji: 弔い上げ
+Kanji: 問い上げ
+
+Kana: といきり
+Kanji: 問い切り
+Kanji: 問切り
+
+Kana: あげどき
+Kanji: 揚げ斎
+
+Kana: そうなんし
+Kanji: 遭難死
+
+Kana: はんざいし
+Kanji: 犯罪死
+
+Kana: はんざいし
+Kanji: 犯罪死
+
+Kana: ひはんざいし
+Kanji: 非犯罪死
+
+Kana: じゅっちゅうし
+Kanji: 術中死
+
+Kana: じゅっちゅうし
+Kanji: 術中死
+
+Kana: じゅっちゅうし
+Kanji: 術中死
+
+Kana: しぜんしょうめつ
+Kanji: 自然消滅
+
+Kana: しっけつし
+Kanji: 失血死
+
+Kana: しっけつし
+Kanji: 失血死
+
+Kana: のろいころす
+Kanji: 呪い殺す
+Kanji: のろい殺す
+
+Kana: のこぎりびき
+Kanji: 鋸引き
+Kanji: 鋸挽き
+
+Kana: デスボイス
+Kana: デスヴォイス
+Kana: デス・ボイス
+Kana: デス・ヴォイス
+
+Kana: デスボイス
+Kana: デスヴォイス
+Kana: デス・ボイス
+Kana: デス・ヴォイス
+
+Kana: デスごえ
+Kanji: デス声
+
+Kana: デスごえ
+Kanji: デス声
+
+Kana: うしのときまいり
+Kanji: 丑の時参り
+
+Kana: うしのこくまいり
+Kanji: 丑の刻参り
+Kanji: 牛の刻参り
+Kanji: 丑の刻まいり
+
+Kana: ゴールデンゴール
+Kana: ゴールデン・ゴール
+
+Kana: じせいのく
+Kanji: 辞世の句
+
+Kana: せいしかん
+Kanji: 生死観
+
+Kana: せいしかん
+Kanji: 生死観
+
+Kana: ごせ
+Kanji: 後世
+
+Kana: かまいり
+Kanji: 釜煎り
+Kanji: 釜熬り
+
+Kana: さきばら
+Kana: せんぷく
+Kana: せんばら
+Kanji: 先腹
+
+Kana: じゅうさんかいき
+Kanji: 十三回忌
+
+Kana: じゅうしちかいき
+Kanji: 十七回忌
+
+Kana: みとり
+Kanji: 看取り
+Kanji: 見取り
+
+Kana: みとり
+Kanji: 看取り
+Kanji: 見取り
+
+Kana: いちめいをとりとめる
+Kanji: 一命を取り留める
+Kanji: 一命をとりとめる
+Kanji: 一命を取りとめる
+
+Kana: いちめいをとりとめる
+Kanji: 一命を取り留める
+Kanji: 一命をとりとめる
+Kanji: 一命を取りとめる
+
+Kana: こうぎょ
+Kanji: 薨御
+
+Kana: こっき
+Kanji: 国忌
+
+Kana: けっしこう
+Kanji: 決死行
+
+Kana: しぼうせんこく
+Kanji: 死亡宣告
+
+Kana: しぼうすいていじこく
+Kanji: 死亡推定時刻
+
+Kana: デスメタル
+Kana: デス・メタル
+
+Kana: いのちをつなぐ
+Kanji: 命をつなぐ
+Kanji: 命を繋ぐ
+
+Kana: ごうかんちししょうざい
+Kanji: 強姦致死傷罪
+
+Kana: しにかた
+Kanji: 死に方
+
+Kana: せいぼつ
+Kanji: 生没
+Kanji: 生歿
+
+Kana: せいぼつ
+Kanji: 生没
+Kanji: 生歿
+
+Kana: すてふだ
+Kanji: 捨て札
+Kanji: 捨札
+
+Kana: ひとめぐり
+Kanji: 一巡り
+Kanji: ひと巡り
+Kanji: 一周り
+
+Kana: こうし
+Kanji: 絞死
+
+Kana: にゅうようじとつぜんししょうこうぐん
+Kanji: 乳幼児突然死症候群
+
+Kana: にゅうようじとつぜんししょうこうぐん
+Kanji: 乳幼児突然死症候群
+
+Kana: にゅうようじとつぜんししょうこうぐん
+Kanji: 乳幼児突然死症候群
+
+Kana: しにおいやる
+Kanji: 死に追いやる
+Kanji: 死に追い遣る
+
+Kana: ちゅううん
+Kanji: 中蘊
+
+Kana: とらはししてかわをとどめひとはししてなをのこす
+Kanji: 虎は死して皮を留め人は死して名を残す
+
+Kana: じこぶっけん
+Kanji: 事故物件
+
+Kana: うらやましけい
+Kanji: 裏山死刑
+Kanji: うらやま死刑
+Kanji: 羨ま死刑
+
+Kana: ついらくし
+Kanji: 墜落死
+
+Kana: しのきょうふ
+Kanji: 死の恐怖
+
+Kana: ひとはししてなをとどむ
+Kanji: 人は死して名を留む
+
+Kana: ポックリびょう
+Kana: ぽっくりびょう
+Kanji: ポックリ病
+Kanji: ぽっくり病
+
+Kana: ポックリびょう
+Kana: ぽっくりびょう
+Kanji: ポックリ病
+Kanji: ぽっくり病
+
+Kana: なくす
+Kanji: 亡くす
+
+Kana: せいめいけい
+Kanji: 生命刑
+
+Kana: しのこうしん
+Kanji: 死の行進
+
+Kana: デスマーチ
+Kana: デス・マーチ
+
+Kana: デスマーチ
+Kana: デス・マーチ
+
+Kana: しにゆく
+Kanji: 死にゆく
+Kanji: 死に行く
+Kanji: 死に逝く
+
+Kana: ついし
+Kanji: 追賜
+
+Kana: しをえらぶ
+Kanji: 死を選ぶ
+
+Kana: しぬほど
+Kanji: 死ぬほど
+Kanji: 死ぬ程
+
+Kana: しをかくごする
+Kanji: 死を覚悟する
+
+Kana: しにつながる
+Kanji: 死につながる
+Kanji: 死に繋がる
+
+Kana: しにつながる
+Kanji: 死につながる
+Kanji: 死に繋がる
+
+Kana: しにつながる
+Kanji: 死につながる
+Kanji: 死に繋がる
+
+Kana: しいっとうをげんずる
+Kanji: 死一等を減ずる
+
+Kana: かくていしけいしゅう
+Kanji: 確定死刑囚
+
+Kana: かくていしけいしゅう
+Kanji: 確定死刑囚
+
+Kana: しけいかくていしゃ
+Kanji: 死刑確定者
+
+Kana: しけいかくていしゃ
+Kanji: 死刑確定者
+
+Kana: にんていしぼう
+Kanji: 認定死亡
+
+Kana: ぎゃくたいし
+Kanji: 虐待死
+
+Kana: ぎゃくたいし
+Kanji: 虐待死
+
+Kana: ぞうえ
+Kanji: 雑穢
+
+Kana: しんりてきかしぶっけん
+Kanji: 心理的瑕疵物件
+
+Kana: ほしころす
+Kanji: 干し殺す
+Kanji: 干殺す
+Kanji: 乾し殺す
+
+Kana: シートベルトほけん
+Kanji: シートベルト保険
+
+Kana: ちゅうりく
+Kanji: 誅戮
+
+Kana: ちゅうりく
+Kanji: 誅戮
+
+Kana: すいじゃくし
+Kanji: 衰弱死
+
+Kana: すいじゃくし
+Kanji: 衰弱死
+
+Kana: しにいたらしめる
+Kanji: 死に至らしめる
+Kanji: 死にいたらしめる
+
+Kana: しをむかえる
+Kanji: 死を迎える
+
+Kana: しをむかえる
+Kanji: 死を迎える
+
+Kana: いのちをとりとめる
+Kanji: 命を取り留める
+Kanji: 命をとりとめる
+Kanji: 命を取りとめる
+
+Kana: いのちをとりとめる
+Kanji: 命を取り留める
+Kanji: 命をとりとめる
+Kanji: 命を取りとめる
+
+Kana: こうせい
+Kanji: 薨逝
+
+Kana: しにえ
+Kanji: 死絵
+Kanji: 死に絵
+
+Kana: しでのやま
+Kanji: 死出の山
+
+Kana: ご
+Kanji: 期
+
+Kana: さんしゅうき
+Kanji: 三周忌
+
+Kana: いちねんき
+Kanji: 一年忌
+
+Kana: しょうしょうき
+Kanji: 小祥忌
+
+Kana: しょうしょう
+Kanji: 小祥
+
+Kana: だいしょうき
+Kana: たいしょうき
+Kanji: 大祥忌
+
+Kana: だいしょう
+Kanji: 大祥
+
+Kana: しょう
+Kanji: 祥
+
+Kana: しょくえ
+Kana: そくえ
+Kanji: 触穢
+
+Kana: いちしちにち
+Kana: ひとなぬか
+Kana: ひとなのか
+Kana: いっしちにち
+Kanji: 一七日
+
+Kana: いちしちにち
+Kana: ひとなぬか
+Kana: ひとなのか
+Kana: いっしちにち
+Kanji: 一七日
+
+Kana: しにいき
+Kanji: 死に生き
+Kanji: 死生
+
+Kana: しにいき
+Kanji: 死に生き
+Kanji: 死生
+
+Kana: しにいき
+Kanji: 死に生き
+Kanji: 死生
+
+Kana: ぼう
+Kanji: 亡
+
+Kana: せいはしのはじめ
+Kana: しょうはしのはじめ
+Kanji: 生は死の始め
+
+Kana: ごすい
+Kanji: 五衰
+
+Kana: てんきぼ
+Kanji: 点鬼簿
+
+Kana: きぼ
+Kanji: 鬼簿
+
+Kana: こう
+Kanji: 絞
+
+Kana: みをしずめる
+Kanji: 身を沈める
+
+Kana: ないいんし
+Kanji: 内因死
+
+Kana: けっしのかくご
+Kanji: 決死の覚悟
+
+Kana: ごにこるとおやのしにめにあわぬ
+Kanji: 碁に凝ると親の死に目に逢わぬ
+Kanji: 碁に凝ると親の死に目に会わぬ
+
+Kana: ちょうかしぼう
+Kanji: 超過死亡
+
+Kana: ことばをのこす
+Kanji: 言葉を残す
+
+Kana: のこす
+Kanji: 遺す
+
+Kana: おうぎばら
+Kanji: 扇腹
+
+Kana: せんすばら
+Kanji: 扇子腹
+
+Kana: ししゃがでる
+Kanji: 死者が出る
+
+Kana: ざいたくし
+Kanji: 在宅死
+
+Kana: ししゃすう
+Kanji: 死者数
+
+Kana: ししゃすう
+Kanji: 死者数
+
+Kana: ねっし
+Kanji: 熱死
+
+Kana: ねっし
+Kanji: 熱死
+
+Kana: せいとし
+Kanji: 生と死
+
+Kana: みょうちょう
+Kanji: 名帳
+
+Kana: よづめ
+Kanji: 夜爪
+
+Kana: かんせんし
+Kanji: 感染死
+
+Kana: そんぼうのきき
+Kanji: 存亡の危機
+
+Kana: さつがいよこく
+Kanji: 殺害予告
+
+Kana: ばんしにあたいする
+Kanji: 万死に値する
+
+Kana: きょうあってあすないみ
+Kanji: 今日あって明日ない身
+
+Kana: かんれんし
+Kanji: 関連死
+
+Kana: かんれんし
+Kanji: 関連死
+
+Kana: ちょくせつし
+Kanji: 直接死
+
+Kana: ちょくせつし
+Kanji: 直接死
+
+Kana: せいぼつねんふしょう
+Kanji: 生没年不詳
+
+Kana: ぼうこうし
+Kanji: 暴行死
+
+Kana: ぼうこうし
+Kanji: 暴行死
+
+Kana: かいろ
+Kanji: 薤露
+
+Kana: ぜつめつしゅうようじょ
+Kanji: 絶滅収容所
+
+Kana: しんせいじしぼう
+Kanji: 新生児死亡
+
+Kana: デスゲーム
+Kana: デス・ゲーム
+
+Kana: へんしたい
+Kanji: 変死体
+
+Kana: しぼうほけんきん
+Kanji: 死亡保険金
+
+Kana: いのちをひろう
+Kanji: 命を拾う
+
+Kana: いのちをひろう
+Kanji: 命を拾う
+
+Kana: せいぼつねんみしょう
+Kanji: 生没年未詳
+
+Kana: たおれてのちやむ
+Kanji: 斃れて後已む
+Kanji: 倒れて後やむ
+Kanji: 斃れて后已む
+
+Kana: けいちょうきゅうか
+Kanji: 慶弔休暇
+
+Kana: しそう
+Kanji: 四相
+
+Kana: うちころす
+Kanji: 打ち殺す
+Kanji: 打殺す
+
+Kana: ダイイングメッセージ
+Kana: ダイイング・メッセージ
+
+Kana: いのちをけずる
+Kanji: 命を削る
+
+Kana: ちりぎわ
+Kanji: 散り際
+Kanji: 散りぎわ
+
+Kana: ちりぎわ
+Kanji: 散り際
+Kanji: 散りぎわ
+
+Kana: ぶんがくき
+Kanji: 文学忌
+
+Kana: しのたに
+Kanji: 死の谷
+
+Kana: ﾀﾋ
+Kana: タヒ
+
+Kana: じんてきそんしつ
+Kanji: 人的損失
+
+Kana: シズ
+Kana: シッズ
+Kana: エス・アイ・ディー・エス
+Kana: エスアイディーエス
+Kanji: ＳＩＤＳ
+
+Kana: ごふく
+Kanji: 五福
+
+Kana: てんじゅをまっとうする
+Kanji: 天寿を全うする
+
